@@ -1,0 +1,50 @@
+[
+    {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial intelligence is the ability of machines to perform tasks that normally require human intelligence."
+    },
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine learning is a subset of AI that enables systems to learn automatically from data."
+    },
+    {
+        "question": "What is deep learning?",
+        "answer": "Deep learning is a branch of machine learning that uses neural networks with many layers."
+    },
+    {
+        "question": "What is Python used for?",
+        "answer": "Python is used for web development, data science, machine learning, automation, and scripting."
+    },
+    {
+        "question": "What is a neural network?",
+        "answer": "A neural network is a computational model inspired by the human brain."
+    },
+    {
+        "question": "What is natural language processing?",
+        "answer": "NLP is a field of AI focused on enabling computers to understand human language."
+    },
+    {
+        "question": "What is a database?",
+        "answer": "A database is a structured system for storing, managing, and retrieving data."
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing is the delivery of computing services over the internet."
+    },
+    {
+        "question": "What is an API?",
+        "answer": "An API is a set of rules that allow software applications to communicate with each other."
+    },
+    {
+        "question": "What is cybersecurity?",
+        "answer": "Cybersecurity is the practice of protecting systems and data from cyber attacks."
+    },
+    {
+        "question": "What is FinTech ?",
+        "answer": "[Generated Offline] The answer to your question 'What is FinTech ?' will be provided here."
+    },
+    {
+        "question": "what is insta",
+        "answer": "[Generated Offline] The answer to your question 'what is insta' will be provided here."
+    }
+]
